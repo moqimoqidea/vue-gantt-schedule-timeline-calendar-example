@@ -9,7 +9,7 @@
       "version": "0.1.18",
       "dependencies": {
         "core-js": "^3.40.0",
-        "gantt-schedule-timeline-calendar": "^3.40.3",
+        "gantt-schedule-timeline-calendar": "^3.40.5",
         "vue": "^3.5.13",
         "wasm-loader": "^1.3.0"
       },
@@ -8377,9 +8377,9 @@
       }
     },
     "node_modules/gantt-schedule-timeline-calendar": {
-      "version": "3.40.3",
-      "resolved": "https://registry.npmjs.org/gantt-schedule-timeline-calendar/-/gantt-schedule-timeline-calendar-3.40.3.tgz",
-      "integrity": "sha512-LnlVnj7YyBsH9W+A6VzedZ17XaOI0Mnc2fkrDeWLh6SToaeLczKxH6McPjKRJf7bT4nbGTRBuuiuWrc9JEeP7Q==",
+      "version": "3.40.5",
+      "resolved": "https://registry.npmjs.org/gantt-schedule-timeline-calendar/-/gantt-schedule-timeline-calendar-3.40.5.tgz",
+      "integrity": "sha512-Q+ubqkYBnwMbgjvzn2Y+csI8WszqOG/Holhla8BX74Ycu7yfunZ74Gb6wPzIqex0tGL3VXf/ygQftqbyIhXwuA==",
       "license": "SEE LICENSE IN LICENSE",
       "dependencies": {
         "@neuronet.io/vido": "^4.3.1",
